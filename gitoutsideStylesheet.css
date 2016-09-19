@@ -1,0 +1,94 @@
+#mapid { 
+	width: 80%; 
+	height: 70%;
+}
+
+header {
+	text-align: center;
+}
+
+img {
+	width: 250px;
+	padding-left: 10px;
+}
+
+input[type="button"] {
+	text-align: center;
+	border: none;
+	background-color: #FFFFFF;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 20pt;
+	color: #216136;
+}
+
+input[type="text"] {
+	padding-left: 5px;
+}
+input[type="submit"] {
+	background-color: #4CAF50;
+	border: white;
+	color: white;
+	padding: 8px 20px;
+	margin: 4px 2px;
+	cursor: pointer;
+	width: 225px;
+
+}
+
+iframe {
+	border: none;
+	width: 85%;
+	height: 80%;
+	position: absolute;
+	left: 7%;
+	
+}
+
+#calendar {
+	position: absolute;
+	top: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+.yelpImage{
+	width: 50px;
+}
+p{
+	display: inline;
+	font-size: 13pt;
+	font-family: arial;
+	color: #216136;
+}
+
+b {
+	font-size: 13pt;
+	font-family: arial;
+	color: #216136;
+}
+
+h1 {
+	font-size: 12pt;
+	font-family: arial;
+	color: #216136;
+}
+
+#eventInfo {
+	text-align: center;
+}
+
+#createEventForm {
+	color: #216136;
+	font-size: 13pt;
+	font-family: arial;
+	position: absolute;
+	left: 36%;
+	top: 20%;
+}
+
+#createEventForm input[type=submit] {
+	width: 310px;
+}
